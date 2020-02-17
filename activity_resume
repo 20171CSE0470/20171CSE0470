@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<body >
+<div style="width:80%; position:absolute; right:10%; background-color:#cce6ff;">
+<img src="319189_thumb.png" style="float:right;height:150px;" >
+<h3>Nuwika R Reddy</h3>
+<a href="mailto:shreyash.p59@gmail.com">nuwika.r.reddy@gmail.com</a>
+<h3>+91 7892713235</h3><br><br>
+<hr color="black">
+<h3>CV Highlights</h3>
+ <ul>
+  <li>Marketing Executive</li>
+  <li>Web developer</li>
+  <li>Coder</li>
+  <li>Toastmaster</li>
+ </ul>
+<hr color="black">
+<h3>Professional Experience</h3>
+ <ul>
+  <h3> Job reputations</h3>
+  <ul type="square">
+  <li>Marketing Executive</li>
+  <li>Web developer</li>
+  <li>Coder in database-sql and Java</li>
+ </ul>
+  <ul type="square">
+  <li>Marketing Executive</li>
+  <li>Web developer</li>
+  <li>Coder </li>
+ </ul>
+ </ul>
+ <hr color="black">
+ <h3>Education Qualification</h3>
+ <table border="1px" align="center" style="height:70%;width:60%;">
+  <tr>
+   <th>Qualification</th>
+   <th>Record</th>
+   <th>Percentage/grade</th>
+   <th>Year</th>
+  </tr>
+  <tr style="text-align:center;">
+   <td>B.Tech</td>
+   <td>CSE</td>
+   <td>7.4</td>
+   <td>2021</td>
+  </tr>
+  <tr style="text-align:center;">
+   <td>XII</td>
+   <td>PCMC</td>
+   <td>83%</td>
+   <td>2017</td>
+  </tr>
+  <tr style="text-align:center;">
+   <td>X</td>
+   <td>ICSE</td>
+   <td>85%</td>
+   <td>2015</td>
+  </tr>
+ </table>
+ <hr color="black">
+ <h3> Independent Course</h3>
+  <ul type="circle">
+  <li>Web Development using HTML,CSS,JavaScript</li>
+  <li>Visual Code Studio</li>
+  <li>SQL-Database</li>
+ </ul><br>
+<hr color="black">
+ <h3>Technical Skills</h3>
+  <ul type="circle">
+  <li><span style="color:red;">Programming languages:</span>Has hands-on experience over programming languages like C,C++ and Java.</li>
+  <li><span style="color:red;">Project management:</span>Experienced on projects developed and undertaken.</li>
+  <li><span style="color:red;">Operating System:</span>Windows 10,8,7,XP;Linux:Ubuntu</li>
+ </ul><br>
+<hr color="grey">
+<h3>Certification/Award</h3>
+ <ul type="disc">
+  <li>Internship Certification done on "Web development" at Srishti Software Pvt.Ltd.</li>
+<li>Internship Certification done as "Marketing Executive" at SuperSeva Pvt.Ltd.</li>
+  <li>Out-going Student award in Florence Public School, 2015 </li>
+  <li>Bronze-Medal in National Olympiad Computer Science at college level</li>
+ </ul><br>
+<hr color="grey">
+ <h3>Personal Information</h3>
+  <ul type="circle">
+  <li>Wanderer/Traveller</li>
+  <li>Artist</li>
+<li> Theather Interest </li>
+  <li>Active Marathon Runner</li>
+ 
+ </ul><br>
+ <hr color="grey">
+ <h3>Other Information</h3>
+  <ul type="disc">
+  <li>Avid Reader</li>
+  <li>Explorer </li>
+ 
+ </ul><br>
+<hr color="grey">
+ <h3>Declaration</h3>
+ <p>I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.</p>
+<p><b>Date:</b></p>
+<p><b>Place:</b></p>
+<p align="right">(Nuwika R Reddy)</p>
+</div>
+</body>
+</html>
+
+
